@@ -116,6 +116,5 @@ Rapor hem masaüstü hem de mobil görüntüleme için optimize edilmiştir
 Eksik işlemleri hariç tutmak için filtreler uygulanmıştır
 Tüm parasal değerler milyar (B) cinsinden gösterilmektedir
 
-
-[Ekran görüntüsü 2025-03-27 152424](https://github.com/user-attachments/assets/42179746-bbdb-4f1f-99fd-0b42ab4f9e84)
+![Ekran görüntüsü 2025-03-27 152424](https://github.com/user-attachments/assets/885794c7-7bab-42e2-af7e-1c0a19be8455)
 
